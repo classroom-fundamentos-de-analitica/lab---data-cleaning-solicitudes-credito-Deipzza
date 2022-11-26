@@ -12,8 +12,6 @@ import re
 
 def clean_data():
 
-    df = pd.read_csv("solicitudes_credito.csv", sep=";")
-
     #
     # Inserte su código aquí
     #
